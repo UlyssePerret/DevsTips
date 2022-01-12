@@ -5,18 +5,17 @@ Ils permettent aux utilisateurs de consulters les codes et des exemples utilise 
 # Architecture du code git
 
 # Installation
-L'installation de node necessite nodeJS et un environnement de travaille
+L'installation de VueJS necessite nodeJS et un environnement de travaille.
 
 Documentation Node : https://nodejs.org/en/
 VueJS :  https://fr.vuejs.org/v2/guide/installation.html
 
 # Credit
-Baptite dantas
-
+Baptiste Dantas
 Nikola Marinkovinc
-
 Ulysse Perret
 
 # Versionning
 V0 - Date : 11-12/01/2021
 Installation Devs Tips
+Initiation du Git
