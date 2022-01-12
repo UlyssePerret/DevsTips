@@ -10,8 +10,9 @@ L'installation de VueJS necessite nodeJS et un environnement de travaille.
 aprés quoi il sera plus simple d'installer vue
 A mettre dans le terminal :
 ''' 
-npm install -g @vue/cli
-# OR
+$ npm install vue
+$npm install -g @vue/cli
+* OR
 yarn global add @vue/clie
 '''
 
